@@ -1,11 +1,18 @@
-# TeamProfile-10
+# Homework 10
+The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
-Built to assist in easy access to employee contact information so all team members can see important contact information such as emails, githubs, phone numbers and positions in the workplace. This is done by creating a dynamic HTML page through Node...
+## Installation:
 
-## To Run
+1. Make sure you have Node and npm installed in your computer. Node.js download can be found [here](https://nodejs.org/en/).
+2. Clone this repository to your local computer.
+3. Run "npm install" in your console to install the required dependencies into your package.json file.
+4. Check to make sure the files are running properly by typing "npm test" in your console to run the defined tests with jest.
+5. To run the application, type "node app.js" into your console."
 
-Be sure to NPM install, then run "node app.js" in your terminal to create your own webpage!
+## Demonstration 
 
-## Live Demo
+https://youtu.be/4KmUpwXnJLo
 
-https://drive.google.com/file/d/1dhe0sT3niQjLs23kE6MLdXCLGqA7T2BO/view
+## Questions
+
+If you have any questions, please feel free to contact me at: adhamera@gmail.com.
