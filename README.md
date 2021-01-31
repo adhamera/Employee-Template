@@ -3,11 +3,9 @@ The application will prompt the user for information about the team manager and 
 
 ## Installation:
 
-1. Make sure you have Node and npm installed in your computer. Node.js download can be found [here](https://nodejs.org/en/).
-2. Clone this repository to your local computer.
-3. Run "npm install" in your console to install the required dependencies into your package.json file.
-4. Check to make sure the files are running properly by typing "npm test" in your console to run the defined tests with jest.
-5. To run the application, type "node app.js" into your console."
+1. Please install Node and npm in your computer. You can download NodeJS [here](https://nodejs.org/en/).
+2. Please run "npm install" in your terminal to install the required dependencies into your package.json file.
+3. You may run the application by typing "node app.js" into your terminal."
 
 ## Demonstration 
 
